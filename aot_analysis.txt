@@ -1,0 +1,20 @@
+Stock Analysis Report for AOT
+
+Date Range: 2023-10-23 to 2024-01-30
+Total Records: 100
+
+Price Summary:
+count    100.000000
+mean      91.124429
+std       27.535030
+min       45.069340
+25%       68.790102
+50%       91.821534
+75%      109.245043
+max      142.630397
+Name: Price, dtype: float64
+
+Price Change:
+Start Price: 62.09
+End Price: 125.10
+Change: 63.01 (101.49%)
